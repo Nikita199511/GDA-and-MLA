@@ -1,0 +1,2 @@
+# GDA-and-MLA
+Gradient descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model. We have also used Multiple Linear Regression as a statistical technique that uses several explanatory variables to predict the outcome of a response variable.   used multiple Linear Regression
